@@ -4,4 +4,5 @@
 17.11.24 60m, completed the apperentice access control labs \
 24.11.24 [Report 1](https://github.com/RasmusTalvitie/Logbook/blob/main/report1-.md) \
 24.11.24 120m, added the missing headers and email validation \
-24.11.24 [Report 2](https://github.com/RasmusTalvitie/Logbook/blob/main/report2-.md)
+24.11.24 [Report 2](https://github.com/RasmusTalvitie/Logbook/blob/main/report2-.md) \
+8.12.24 6h, [Phase 3](https://github.com/RasmusTalvitie/Logbook/blob/main/phase3.md)
